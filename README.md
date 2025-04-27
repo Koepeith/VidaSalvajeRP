@@ -5,50 +5,61 @@
 
 ---
 
-¡Bienvenido al launcher oficial de **VidaSalvajeRP** en **RedM**!
-
-Este instalador facilita tu conexión al servidor, asegurando que siempre entres con la mejor experiencia posible.  
-Asegúrate de seguir las instrucciones atentamente para configurar todo correctamente.
+> 🎯 **Bienvenido**  
+> Este es el launcher oficial de **VidaSalvajeRP** en **RedM**.  
+> Facilita tu conexión al servidor, garantizando siempre la mejor experiencia.  
+> Asegúrate de seguir las instrucciones para una correcta configuración.
 
 ---
 
 ## 🚀 ¿Cómo empezar?
 
-1. 📥 **Descarga la última release** desde la sección [Releases](https://github.com/Koepeith/VidaSalvajeRP/releases).
-2. 📂 Una vez descargado, ejecuta el archivo:
+| Paso | Descripción |
+|:--|:--|
+| 📥 Descargar | Accede a la sección [Releases](https://github.com/Koepeith/VidaSalvajeRP/releases) y descarga la última versión disponible. |
+| 🖥️ Instalación | Ejecuta el archivo descargado:<br>```VidaSalvajeRP-Setup-X.X.X``` |
+| 🖱️ Finalizar | Sigue los pasos indicados por el instalador hasta completar la instalación. |
+| 🎮 Acceso | El launcher te permitirá entrar directamente a VidaSalvajeRP tras finalizar. |
 
-   ```bash
-   VidaSalvajeRP Setup (versión).exe
-3. 🖱️ Sigue los pasos del instalador hasta completarlo.
-
-4. 🎮 Al finalizar, el launcher te permitirá entrar directamente al servidor de VidaSalvajeRP.
+---
 
 ## ⚙️ Nota importante para nuevos usuarios
 
-Si es la primera vez que utilizas el launcher, al pulsar el botón para entrar al servidor, se te pedirá seleccionar la ruta de instalación de RedM.
+> ℹ️ **Primera configuración**  
+> La primera vez que pulses el botón de entrar, deberás seleccionar manualmente la ruta de instalación de RedM.  
+> Después de configurarlo una vez, el launcher recordará la ubicación automáticamente.
 
-Solo tendrás que hacerlo una única vez. Posteriormente, el launcher recordará la ubicación automáticamente.
+> 🛤️ **Ejemplo de ruta típica**:  
+> `AppData\Local\RedM\RedM.exe`
 
-Ejemplo de ruta típica:
-"AppData\Local\RedM\RedM.exe"
+---
 
 ## 📋 Requisitos
 
-Tener instalado RedM correctamente en tu equipo.
+| Requisito | Detalle |
+|:--|:--|
+| ✅ RedM instalado | Asegúrate de que RedM esté correctamente instalado en tu equipo. |
+| ✅ Internet estable | Se requiere una conexión a Internet confiable. |
+| ✅ Permisos de ejecución | El sistema debe permitir ejecutar archivos `.exe` (puede requerir permisos de administrador). |
 
-Contar con una conexión a Internet estable.
-
-Permitir la ejecución de archivos .exe en tu sistema (puede requerir permisos de administrador).
+---
 
 ## 🛠️ Soporte
 
-Si tienes cualquier problema o duda, puedes contactar con nosotros a través de:
+> 💬 **¿Problemas o dudas?**  
+> Si necesitas ayuda, puedes contactar a nuestro equipo a través del [Discord Oficial](https://discord.gg/92bTwC6QGE).
 
-
-🌐 [Discord Oficial](discord.gg/92bTwC6QGE)
+---
 
 ## 📢 Importante
-Este launcher es exclusivo para uso en el servidor de VidaSalvajeRP.
-La utilización en otros entornos o servidores no está soportada.
 
-¡Nos vemos en el salvaje oeste! 🤠
+| 🚫 Uso Exclusivo |
+|:--|
+| Este launcher ha sido desarrollado únicamente para su utilización en el servidor de **VidaSalvajeRP**. |
+| El uso en otros servidores o entornos no está soportado. |
+
+---
+
+<p align="center">
+  ¡Nos vemos en el salvaje oeste! 🤠
+</p>
